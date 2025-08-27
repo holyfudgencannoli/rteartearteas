@@ -1,0 +1,8 @@
+#seasonal-spend-container{
+  /* width: 40%;       */
+  /* max-width: 200px;  */
+  margin: 0 auto;  
+  height: auto;   
+  background-color: rgba(133, 187, 71, 0.5);
+  padding: 1rem;
+}

@@ -1,0 +1,74 @@
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+  /* background-color: black; */
+
+  /* text-align: left; */
+}
+
+#main-content{
+  margin: 1rem, 2rem, 2rem, 2rem;
+  text-align: center;
+  color: rgba(133, 187, 71, 1);
+  text-shadow: blanchedalmond 1px 1px; 
+}
+
+#upload-cont{
+  background-color: rgba(133, 187, 71, 0.8);
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center;
+
+}
+
+#header{
+  display: flex;
+  flex-direction: row;  
+  align-items: center;
+  width: 100%;
+}
+
+#time{
+  position: absolute;
+  right: 0;
+  padding: 1rem;
+  color: rgba(133, 187, 71, 1);
+  text-shadow: blanchedalmond 1px 1px;
+}
+
+#date{
+  color: rgba(133, 187, 71, 1);
+  text-shadow: blanchedalmond 1px 1px;
+}
+
+#login-box{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.login-input-label{
+  padding: 1rem;
+  position: relative;
+}
+
+#login-box-buttons{
+  padding: 2rem;
+}
+
+#login-text{
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+#signup-box form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#signup-button{
+
+}
+/* {{ display:'flex', justifyContent:'center', alignItems:'center', flexDirection:'column', backgroundColor:'#888', padding:'3rem' }} */

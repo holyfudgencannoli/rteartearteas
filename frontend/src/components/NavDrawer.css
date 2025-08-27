@@ -1,0 +1,11 @@
+#NavToggle{
+    margin: 1rem;
+    background-color: rgba(133, 187, 71, 1);
+    color: blanchedalmond;
+    border: blanchedalmond;
+    align-self: center;
+}
+
+.list-button {
+    color: white;
+}

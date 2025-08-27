@@ -1,0 +1,17 @@
+.slider-container {
+    width: 85%;
+  /* max-width: 200px;  */
+  margin: 0 auto;  
+  height: auto;   
+  background-color: rgba(133, 187, 71, 0.5);
+  padding: 1rem;
+
+}
+
+.slick-slide img {
+    margin: auto;
+    width: 50%;   
+    /* height: auto;    */
+    max-height: 400px;
+    object-fit: contain; 
+}
